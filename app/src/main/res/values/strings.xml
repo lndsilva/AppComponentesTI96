@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppComponentesTI96</string>
+    <string name="nome">Turma TI96-Tarde</string>
+    <string name="user">Usuário:</string>
+    <string name="senac_largo_treze">Senac Largo Treze</string>
+    <array name="items">
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Manaus</item>
+
+    </array>
+</resources>
